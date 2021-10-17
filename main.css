@@ -1,0 +1,120 @@
+body {
+  background-color: hsl(185, 75%, 39%);
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+.background {
+  position: relative;
+}
+
+.c-a {
+  position: absolute;
+  left: -5%;
+  top: -450px;
+}
+
+.c-b {
+  position: absolute;
+  position: absolute;
+  right: -5%;
+  top: +400px;
+}
+
+.center-all {
+  position: relative;
+  width: 25%;
+  text-align: center;
+  margin: 250px auto auto auto;
+  line-height: 0;
+}
+
+.head {
+  display: inline-block;
+  padding: 0;
+}
+
+.head-p {
+  margin: 0 auto;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+.profile{
+  text-align: center;
+  position: relative;
+  margin-top:  -211px;
+
+}
+.profile-p{
+  position: absolute;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #fff;
+  border-width: 6px;
+  margin-left: -53px;
+}
+
+.center {
+  display: inline-block;
+  width: 350px;
+  height: 158px;
+  position: relative;
+  background-color: white;
+  /*1440p-350/2=545*/
+  margin: 0 auto;
+  border-bottom-width: 2px;
+  border-bottom-color: hsl(0, 0%, 59%);
+  border-bottom-style: solid;
+}
+.footer{
+  margin: 0 auto;
+  position: relative;
+  background-color: white;
+  top: 122px;
+  width: 350px;
+  height: 80px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  }
+  .text{
+    position: relative;
+    top: 110px;
+    line-height: 1.1;
+  }
+  .big{
+    font-size: 18PX
+
+
+  }
+  .small{
+
+  }
+.hevy{
+  font-weight: 700;
+}
+.light{
+  font-weight: 400;
+}
+.span{
+  margin-left: 5px;
+}
+.footer{
+
+}
+.top-txt{
+  position: relative;
+  bottom: -10px;
+display: inline-block;
+width: 80px;
+}
+.bottem-txt{
+  font-size: 14px;
+  position: relative;
+  top: -5px;
+  display: inline-block;
+  width: 80px;
+}
+.attribution{
+  display: block;
+  position: fixed;
+  bottom: 0
+}
